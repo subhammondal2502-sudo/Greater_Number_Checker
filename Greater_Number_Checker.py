@@ -5,6 +5,6 @@ number3=int(input("enter 3rd number :"))
 if number1>number2 and number1>number3:
     print("First number is greater")  
 elif number2>number1 and number2>number3:
-    print("second number is greate")
-else:
-    print("Both numbers are equal")
+    print("second number is greater")
+elif number3>number1 and number3>number2:
+    print("third number is greater")
