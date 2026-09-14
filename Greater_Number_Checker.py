@@ -5,3 +5,5 @@ if number1>number2:
     print("First number is greater")  
 elif number2>number1:
     print("second number is greate")
+else:
+    print("Both numbers are equal")
