@@ -8,3 +8,5 @@ elif number2>number1 and number2>number3:
     print("second number is greater")
 elif number3>number1 and number3>number2:
     print("third number is greater")
+else:
+    print("all number are equal")
